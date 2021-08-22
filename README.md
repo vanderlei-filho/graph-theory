@@ -1,1 +1,1 @@
-# GraphTheory
+# Graph Theory scripts for study & research purposes
